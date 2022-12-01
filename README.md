@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Navin Navneet
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking for a front end job on React.js
+- 🌱 I’m currently working as a Frontend developer at Agnext Technologies
 - 📫 How to reach me @ navinnavneet810@gmail.com
 
 <!---
